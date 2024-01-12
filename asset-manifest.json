@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/https.//arunMuruganDev.github.io/movie-app/static/css/main.53199a7f.css",
+    "main.js": "/https.//arunMuruganDev.github.io/movie-app/static/js/main.270eddf4.js",
+    "static/js/787.b55ca069.chunk.js": "/https.//arunMuruganDev.github.io/movie-app/static/js/787.b55ca069.chunk.js",
+    "index.html": "/https.//arunMuruganDev.github.io/movie-app/index.html",
+    "main.53199a7f.css.map": "/https.//arunMuruganDev.github.io/movie-app/static/css/main.53199a7f.css.map",
+    "main.270eddf4.js.map": "/https.//arunMuruganDev.github.io/movie-app/static/js/main.270eddf4.js.map",
+    "787.b55ca069.chunk.js.map": "/https.//arunMuruganDev.github.io/movie-app/static/js/787.b55ca069.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53199a7f.css",
+    "static/js/main.270eddf4.js"
+  ]
+}
